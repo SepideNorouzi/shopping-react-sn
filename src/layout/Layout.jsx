@@ -19,9 +19,7 @@ function Layout({ children }) {
         </Link>
       </header>
       {children}
-      <footer className={styles.footer}>
-        Made by Sepide with pain and tears
-      </footer>
+      <footer className={styles.footer}>Made by Sepide</footer>
     </>
   );
 }
