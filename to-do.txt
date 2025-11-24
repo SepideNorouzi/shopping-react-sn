@@ -1,0 +1,11 @@
+1/cart context file next. then editting the importation of the whole project through json file(rewatch the
+videos to remember)
+
+2/404 page and complete the current base.
+
+3/create sign in page and use authorization concepts to develope.
+
+4/add the users profile, sign in and log out buttons.
+
+5/develope the project so that it contains tokens and when i reload the web page, the 
+data of the user gets saved and does not disapper.
