@@ -1,4 +1,4 @@
-import { useDispatch, useSelector } from "react-redux";
+import { useSelector } from "react-redux";
 import BasketCard from "../components/BasketCard";
 import BasketSidebar from "../components/BasketSidebar";
 
